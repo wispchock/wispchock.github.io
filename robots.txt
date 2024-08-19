@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://wispchock.github.io/sitemap/sitemap.txt
